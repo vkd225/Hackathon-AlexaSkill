@@ -26,11 +26,11 @@ def start_skill():
 
 employee_list = ['Vikash','Manish', 'Kanchan', 'Henry', 'Aisha']
 
-employee_dict = {'Manish': '+13475456457',
-				'Kanchan': '+17186660179',
-				'Aisha': '+13475456457',
-				'Henry': '+19739324679',
-				'Vikash': '+13475456457' 
+employee_dict = {'Manish': '+12345678901',
+				'Kanchan': '+12345678901',
+				'Aisha': '+12345678901',
+				'Henry': '+12345678901',
+				'Vikash': '+12345678901' 
 }
 
 
@@ -115,13 +115,13 @@ def random_info():
 
 
 #------------------- Send message using Twilio -----------------------
-
+#you should be keeping all of this in a separate file as a gitignore file
 # Your Account SID from twilio.com/console
 
-account_sid = "ACe7aa947f226b5887756ae30fbeeb92d2"
+account_sid = "your_account_sid"
 
 # Your Auth Token from twilio.com/console
-auth_token  = "10a7156914eeece38350e56577b31ab8"
+auth_token  = "your_auth_token"
 
 client = Client(account_sid, auth_token)
 
