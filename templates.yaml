@@ -1,0 +1,25 @@
+welcome: Welcome to Tricon Infotech, I am Alexa. Can I please get your name.
+
+welcome_message: Hi. I am Team Supernova's Alexa skill bot. Can I please get your name?
+
+visitor_message: Hi {{ visitor }},  welcome to Tricon Infotech. What can I do for you today?
+
+no_response: I am sorry. I quite didnt get that. Whom do you want to meet?
+
+wait_response: Please be seated. {{ person }} will be here shortly. In the mean time, would you like to know some fun facts about Tricon Infotech?
+
+personNotFound: I am sorry. Noone works by that name in Tricon.
+
+organization_info: great! Tricon Infotech is a leading IT consulting, Software Development and Product company in India ! it was Set up in 1997... Tricon's motto is to continuously evolve by providing best-in-class engineering, software products and services... To learn more please visit triconinfotech.com
+
+no_information: Okay, Please be seated.
+
+interesting_info1: Alrighty then ... There was a hackathon in Tricon a few days back and guess what? .. I was born there and was the best Alexa Skill. 
+
+interesting_info2: Awesome... We have a team also operating in USA in Hoboken New Jersey and if you want a job there... Manish is the guy.
+
+interesting_info3: Umm it's not about Tricon but it is fun. Ubuntu .. comes from an African word meaning ... I am because of you
+
+interesting_info4: Noone should know ... Gangadhar hi Shaktimaan hai
+
+phone_number: it is {{ number }}
