@@ -2,7 +2,7 @@
 Tricon Hackathon creating Alexa Skill as a receptionist
 
 
-Demo:
+Demo Videos:
 
 [Demo 1] (https://www.youtube.com/watch?v=6WASpADS3mk)
 
