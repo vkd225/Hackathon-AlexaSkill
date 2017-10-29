@@ -1,5 +1,5 @@
 # Hackathon challenge
-Tricon Hackathon creating Alexa Skill as a receptionist
+Tricon Hackathon: Creating Alexa Skill as a receptionist
 
 
 Demo Videos:
