@@ -9,7 +9,7 @@ Demo Videos:
 [Demo 2] (https://www.youtube.com/watch?v=akGy-g2OgK0)
 
 
-Please go through GUIDE.md to set up your Alexa skill and PPT and Notes for business use cased and technical architecture. 
+Please go through GUIDE.md to set up your Alexa skill. You can also find PPT and Notes for business use-cases and technical architecture. 
 
  
 
